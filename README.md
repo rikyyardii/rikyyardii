@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Ryky Ardiansyah**.<br>
 
-Saya seorang **Fresh Graduate** dari Universitas Muhammadiyah Lamongan.<br>
+Saya seorang **Fresh Graduate** dari jurusan S1 Teknik Komputer Universitas Muhammadiyah Lamongan<br>
 
 Saya memiliki keahlian dalam bahasa pemrograman PHP dan DART<br>
 
