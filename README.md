@@ -2,11 +2,7 @@
 
 Perkenalkan nama saya **Ryky Ardiansyah**.<br>
 
-Saya seorang **Fresh Graduate** dari jurusan S1 Teknik Komputer Universitas Muhammadiyah Lamongan<br>
-
-Saya memiliki keahlian dalam bahasa pemrograman PHP dan DART<br>
-
-Saya juga terbiasa menggunakan Framework Laravel dan Flutter dengan API<br>
+Profesional IT Support dengan latar belakang S1 Teknik Komputer (IPK 3,73) dengan pengalaman di sektor pendidikan, manufaktur, dan perhotelan. Terampil dalam mendukung sistem operasional, jaringan, dan end-user di lingkungan dinamis serta sistem 24/7. Dikenal sebagai pribadi yang pekerja keras, adaptif, dan mampu bekerja mandiri maupun dalam tim.
 
 ### Tech Stack
   <a href="https://flutter.dev/"><img align="left" alt="Flutter" title="Flutter" width="21px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" /></a>
